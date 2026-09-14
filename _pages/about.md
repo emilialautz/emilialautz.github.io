@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "Master's student at<a href='https://ethz.ch/de.html'>ETH Zurich</a>. she/her. elautz@student.ethz.ch"
+subtitle: "she/her"
 
 profile:
   align: right
@@ -25,6 +25,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Master's student in Statistics at the Department of Mathematics at ETH Zurich, Switzerland. My research interests lie at the intersection between statistics, machine learning and climate science. Currently, I am writing my Master's thesis on generative machine learning for downscaling low-resolution climate models. 
+I am a Master's student in Statistics at the Department of Mathematics at <a href='https://ethz.ch/de.html'>ETH Zurich</a>, Switzerland. My research interests lie at the intersection between statistics, machine learning and climate science. Currently, I am writing my Master's thesis on generative machine learning for downscaling low-resolution climate models. 
 
 Feel free to reach out in English or German if you are interested in any related topics.
