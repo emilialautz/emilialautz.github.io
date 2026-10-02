@@ -23,9 +23,9 @@ cv:
         end_date: present
         score: ""
         highlights:
-          - Courses: Statistical Modelling, Introduction to Machine Learning, Probability Theory, Large Language Models, Climate Change Uncertainty and Risk, etc.
-          - Semester Project: "Generative Models for Multivariate Climate Extremes"
-          - Master's Thesis (ongoing): "Generative Machine Learning for Convective Precipitation Downscaling"
+          - Courses - Statistical Modelling, Introduction to Machine Learning, Probability Theory, Large Language Models, Climate Change Uncertainty and Risk, etc.
+          - Semester Project - "Generative Models for Multivariate Climate Extremes"
+          - Master's Thesis (ongoing) - "Generative Machine Learning for Convective Precipitation Downscaling"
 
       - institution: London School of Economics and Political Science (LSE)
         location: London, UK
@@ -36,8 +36,8 @@ cv:
         end_date: 2024
         score: ""
         highlights:
-          - Courses: Applied Machine Learning, Computer Programming, Reinforcement Learning, Mathematical Optimization, etc.
-          - Master's Thesis: "Mitigating Gender Bias in Algorithmic Hiring with Deep Reinforcement Learning"
+          - Courses - Applied Machine Learning, Computer Programming, Reinforcement Learning, Mathematical Optimization, etc.
+          - Master's Thesis - "Mitigating Gender Bias in Algorithmic Hiring with Deep Reinforcement Learning"
 
       - institution: University of St.Gallen (HSG)
         location: St. Gallen, Switzerland
@@ -48,8 +48,8 @@ cv:
         end_date: 2023
         score: ""
         highlights:
-          - Exchange Semester: "Sciences Po Paris, France (01/2023 - 05/2023)"
-          - Bachelor's Thesis: "Correlations between Motherhood, the Timing of Childbirth, and Wages. An Empirical Analysis for Switzerland"
+          - Exchange Semester - "Sciences Po Paris, France (01/2023 - 05/2023)"
+          - Bachelor's Thesis - "Correlations between Motherhood, the Timing of Childbirth, and Wages. An Empirical Analysis for Switzerland"
 
 
     Experience:
